@@ -1,3 +1,3 @@
 # pomodoro
 
-# proyecto realizado con javascript css y html.
+## proyecto realizado con javascript css y html.
